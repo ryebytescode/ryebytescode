@@ -44,7 +44,3 @@
   <img src="https://img.shields.io/badge/Appwrite-FD366E.svg?style=for-the-badge&logo=Appwrite&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white" />
 </div>
-
-## Stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryebytescode&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
